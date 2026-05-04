@@ -22,15 +22,6 @@ I believe art and tech share the same heart — both are about creating somethin
 
 ---
 
-### 🚀 Projects I’ve Worked On
-- 🧠 **Sight – iOS App for Visual Impairment Assistance**  
-  Built using *Swift*, *Go*, and *Google Vision API* to help users recognize faces, text, and objects.  
-
-- 💧 **Groundwater Quality Prediction Framework**  
-  Used *Machine Learning (XGBoost, Scikit-learn)* to predict and classify water quality with 96% accuracy.  
-
----
-
 ### 📫 Let’s Connect
 - 🌐 [Portfolio](https://vaishnavi-nikam924.github.io/portfolio_website/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-nikam-102976200/)  
