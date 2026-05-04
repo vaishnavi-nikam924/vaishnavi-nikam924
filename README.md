@@ -24,7 +24,7 @@ I believe art and tech share the same heart — both are about creating somethin
 
 ### 📫 Let’s Connect
 - 🌐 [Portfolio](https://vaishnavi-nikam924.github.io/portfolio_website/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-nikam-102976200/)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/vaishnavi-nikam-102976200/])  
 - ✉️ [vdnikam@syr.edu](mailto:vdnikam@syr.edu)
 
 ---
