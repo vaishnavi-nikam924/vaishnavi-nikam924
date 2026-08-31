@@ -48,8 +48,8 @@ AI-assisted testing platform with self-healing Playwright tests and automated CI
 
 ## 📫 Let's Connect
 
-🌐 **Portfolio:** [Portfolio](YOUR_PORTFOLIO_URL)
-💼 **LinkedIn:** [LinkedIn](YOUR_LINKEDIN_URL)
+🌐 **Portfolio:** [Portfolio](https://vaishnavi-nikam924.github.io/portfolio_website/)
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/vaishnavi-nikam-102976200/)
 ✉️ **Email:** [vdnikam@syr.edu](mailto:vdnikam@syr.edu)
 
 ---
