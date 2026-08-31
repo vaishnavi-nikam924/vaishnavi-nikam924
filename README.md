@@ -15,9 +15,13 @@ I believe art and engineering are both about creating something meaningful.
 ## 🛠️ Tech Stack
 
 **Languages:** Java, Python, JavaScript, TypeScript, Go, SQL, C++
+
 **Frameworks:** Spring Boot, FastAPI, React, Node.js, Express.js
+
 **Databases:** PostgreSQL, MySQL, MongoDB
+
 **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD, Git, Postman
+
 **AI:** LLMs, Agentic AI, RAG, LangGraph, Gemini, Playwright MCP
 
 ## 🚀 Featured Projects
