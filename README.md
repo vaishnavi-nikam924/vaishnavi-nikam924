@@ -12,6 +12,7 @@ Some of my recent work includes an **AI Shopping Agent**, a **Full-Stack Financi
 Outside of coding, I enjoy painting and exploring creative ideas. 🎨
 I believe art and engineering are both about creating something meaningful.
 
+
 ## 🛠️ Tech Stack
 
 **Languages:** Java, Python, JavaScript, TypeScript, Go, SQL, C++
@@ -23,6 +24,7 @@ I believe art and engineering are both about creating something meaningful.
 **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD, Git, Postman
 
 **AI:** LLMs, Agentic AI, RAG, LangGraph, Gemini, Playwright MCP
+
 
 ## 🚀 Featured Projects
 
@@ -49,6 +51,7 @@ Multi-agent productivity platform with Planner, Executor, and Reflector agents f
 AI-assisted testing platform with self-healing Playwright tests and automated CI/CD workflows.
 
 `Playwright` `LLMs` `React` `GitHub Actions`
+
 
 ## 📫 Let's Connect
 
